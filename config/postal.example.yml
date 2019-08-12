@@ -53,7 +53,7 @@ smtp:
   # system to users. You can configure this to use a Postal mail server once the
   # your installation has been set up.
   host: 127.0.0.1
-  port: 2525
+  port: 25
   username: # Complete when Postal is running and you can
   password: # generate the credentials within the interface.
   from_name: Postal
